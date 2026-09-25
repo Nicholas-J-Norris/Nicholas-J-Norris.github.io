@@ -14,9 +14,9 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Nick Zone # the main title
+title: N1ch0l45 N0rr15 # the main title
 
-tagline: Nick's portfolio # it will display as the subtitle
+tagline: Tech Wizard # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,16 +34,17 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Nicholas James Norris
+  email: nick.j.norris7@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # - https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/Nicholas-J-Norris # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://leetcode.com/u/user2562Mj/
+    - https://www.linkedin.com/in/nick-norris-60b37a268
 
 # Site Verification Settings
 webmaster_verifications:
